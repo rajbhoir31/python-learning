@@ -1,0 +1,15 @@
+Total words: 11
+Unique words: 10
+Most frequent word(s): ['is'] (2 times)
+
+Word Frequencies:
+is: 2
+python: 1
+amazing: 1
+file: 1
+handling: 1
+easy: 1
+lets: 1
+count: 1
+some: 1
+words: 1

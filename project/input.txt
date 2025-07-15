@@ -1,0 +1,3 @@
+Python is amazing
+File handling is easy
+Let's count some words!
